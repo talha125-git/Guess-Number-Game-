@@ -1,3 +1,4 @@
 git add .                
-git commit -m "add github txt file"
+git commit -m "add Live link"
 git push -u origin main  
+https://talha125-git.github.io/Guess-Number-Game-/guess_num.html
